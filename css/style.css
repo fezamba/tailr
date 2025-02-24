@@ -57,3 +57,12 @@ img {
 html, body {
   overflow-x: hidden;
 }
+
+@media (max-width: 576px) {
+  #brand {
+    font-size: 40px;
+  }
+  #custom-p{
+    font-size: 20px ;
+  }
+}
