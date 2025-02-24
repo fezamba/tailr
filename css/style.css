@@ -53,3 +53,7 @@ img {
   url("https://db.onlinewebfonts.com/t/0c2f66b3377085de6cb3df0ab6c0b333.ttf")format("truetype"),
   url("https://db.onlinewebfonts.com/t/0c2f66b3377085de6cb3df0ab6c0b333.svg#More Sugar")format("svg");
 }
+
+html, body {
+  overflow-x: hidden;
+}
